@@ -1,11 +1,11 @@
-<div align="center">
+﻿<div align="center">
 
 # Mr.Hassan
 
-**Software Developer** — Game Servers · Systems · Full-Stack · Security
+**Software Developer** â€” Game Servers آ· Systems آ· Full-Stack آ· Security
 
-[![GitHub followers](https://img.shields.io/github/followers/etetoo2026?style=flat-square&color=0d1117&labelColor=161b22&label=followers)](https://github.com/etetoo2026?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=etetoo2026&style=flat-square&color=0d1117&labelColor=161b22)](https://github.com/etetoo2026)
+[![GitHub followers](https://img.shields.io/github/followers/MrHassan2027?style=flat-square&color=0d1117&labelColor=161b22&label=followers)](https://github.com/MrHassan2027?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=MrHassan2027&style=flat-square&color=0d1117&labelColor=161b22)](https://github.com/MrHassan2027)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## About
 
-I build things across the full stack — from raw TCP game server infrastructure in C# to browser tools in React, CLI utilities in Python, and low-level systems code in C/C++. I'm interested in performance, networking, and tools that make developers more productive.
+I build things across the full stack â€” from raw TCP game server infrastructure in C# to browser tools in React, CLI utilities in Python, and low-level systems code in C/C++. I'm interested in performance, networking, and tools that make developers more productive.
 
 - Currently working on multiplayer game server infrastructure
 - Comfortable from assembly-level networking up to modern web frontends
@@ -38,16 +38,16 @@ I build things across the full stack — from raw TCP game server infrastructure
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [PacketSniffer.NET](https://github.com/etetoo2026/PacketSniffer.NET) | Raw socket packet capture + live WinForms protocol decoder | `C#` `.NET` |
-| [GameServerKit](https://github.com/etetoo2026/GameServerKit) | Reusable TCP game server framework — sessions, packet routing, heartbeat | `C#` `.NET` |
-| [TinyHTTP](https://github.com/etetoo2026/TinyHTTP) | HTTP/1.1 server in pure C — GET/POST, static files, chunked transfer | `C` |
-| [DungeonTerm](https://github.com/etetoo2026/DungeonTerm) | Roguelike dungeon crawler in the terminal — procedural gen, fog of war | `Python` |
-| [MiniORM](https://github.com/etetoo2026/MiniORM) | Attribute-based ORM for SQLite/SQL Server — no EF dependency | `C#` |
-| [SQLProfiler](https://github.com/etetoo2026/SQLProfiler) | Decorator-based query profiler for SQLAlchemy — detects N+1 patterns | `Python` |
-| [FormForge](https://github.com/etetoo2026/FormForge) | Drag-and-drop form builder that exports standalone HTML + validation JS | `React` `TypeScript` |
-| [MDBoard](https://github.com/etetoo2026/MDBoard) | Kanban board where every card is a Markdown file — no database | `Electron` `React` |
-| [PortMapper](https://github.com/etetoo2026/PortMapper) | Async port scanner with service fingerprinting and JSON reports | `Python` |
-| [CodeDuel](https://github.com/etetoo2026/CodeDuel) | Dual Monaco editor with diff mode and a challenge timer for interview prep | `React` `TypeScript` |
+| [PacketSniffer.NET](https://github.com/MrHassan2027/PacketSniffer.NET) | Raw socket packet capture + live WinForms protocol decoder | `C#` `.NET` |
+| [GameServerKit](https://github.com/MrHassan2027/GameServerKit) | Reusable TCP game server framework â€” sessions, packet routing, heartbeat | `C#` `.NET` |
+| [TinyHTTP](https://github.com/MrHassan2027/TinyHTTP) | HTTP/1.1 server in pure C â€” GET/POST, static files, chunked transfer | `C` |
+| [DungeonTerm](https://github.com/MrHassan2027/DungeonTerm) | Roguelike dungeon crawler in the terminal â€” procedural gen, fog of war | `Python` |
+| [MiniORM](https://github.com/MrHassan2027/MiniORM) | Attribute-based ORM for SQLite/SQL Server â€” no EF dependency | `C#` |
+| [SQLProfiler](https://github.com/MrHassan2027/SQLProfiler) | Decorator-based query profiler for SQLAlchemy â€” detects N+1 patterns | `Python` |
+| [FormForge](https://github.com/MrHassan2027/FormForge) | Drag-and-drop form builder that exports standalone HTML + validation JS | `React` `TypeScript` |
+| [MDBoard](https://github.com/MrHassan2027/MDBoard) | Kanban board where every card is a Markdown file â€” no database | `Electron` `React` |
+| [PortMapper](https://github.com/MrHassan2027/PortMapper) | Async port scanner with service fingerprinting and JSON reports | `Python` |
+| [CodeDuel](https://github.com/MrHassan2027/CodeDuel) | Dual Monaco editor with diff mode and a challenge timer for interview prep | `React` `TypeScript` |
 
 ---
 
@@ -55,9 +55,9 @@ I build things across the full stack — from raw TCP game server infrastructure
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=etetoo2026&theme=github-dark-blue&hide_border=true&date_format=Y-m-d)](https://github.com/etetoo2026)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MrHassan2027&theme=github-dark-blue&hide_border=true&date_format=Y-m-d)](https://github.com/MrHassan2027)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=etetoo2026&theme=darkhub&no-frame=true&margin-w=6&column=6)](https://github.com/etetoo2026)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MrHassan2027&theme=darkhub&no-frame=true&margin-w=6&column=6)](https://github.com/MrHassan2027)
 
 </div>
 
@@ -87,51 +87,51 @@ I build things across the full stack — from raw TCP game server infrastructure
 <summary>View all 30 repositories</summary>
 
 ### C# / .NET
-- [PacketSniffer.NET](https://github.com/etetoo2026/PacketSniffer.NET) — Raw socket packet capture with live WinForms UI
-- [MiniORM](https://github.com/etetoo2026/MiniORM) — Lightweight attribute-based ORM, no EF
-- [HotReloadConfig](https://github.com/etetoo2026/HotReloadConfig) — Hot-reload appsettings.json at runtime without restart
-- [PluginHost](https://github.com/etetoo2026/PluginHost) — MEF plugin loader with hot-reload via AssemblyLoadContext
-- [TerminalUI.NET](https://github.com/etetoo2026/TerminalUI.NET) — Cross-platform TUI framework built on ANSI escape codes
-- [GameServerKit](https://github.com/etetoo2026/GameServerKit) — Reusable C# TCP game server framework
+- [PacketSniffer.NET](https://github.com/MrHassan2027/PacketSniffer.NET) â€” Raw socket packet capture with live WinForms UI
+- [MiniORM](https://github.com/MrHassan2027/MiniORM) â€” Lightweight attribute-based ORM, no EF
+- [HotReloadConfig](https://github.com/MrHassan2027/HotReloadConfig) â€” Hot-reload appsettings.json at runtime without restart
+- [PluginHost](https://github.com/MrHassan2027/PluginHost) â€” MEF plugin loader with hot-reload via AssemblyLoadContext
+- [TerminalUI.NET](https://github.com/MrHassan2027/TerminalUI.NET) â€” Cross-platform TUI framework built on ANSI escape codes
+- [GameServerKit](https://github.com/MrHassan2027/GameServerKit) â€” Reusable C# TCP game server framework
 
 ### Python
-- [GitDigest](https://github.com/etetoo2026/GitDigest) — Generates a grouped CHANGELOG from git log
-- [PriceWatcher](https://github.com/etetoo2026/PriceWatcher) — Async price tracker with Discord/email alerts
-- [SQLProfiler](https://github.com/etetoo2026/SQLProfiler) — SQLAlchemy query profiler, detects slow queries and N+1
-- [DocForge](https://github.com/etetoo2026/DocForge) — Static AST-based Python doc generator, zero deps
-- [FaceAttend](https://github.com/etetoo2026/FaceAttend) — Webcam face recognition attendance logger
-- [ShellSage](https://github.com/etetoo2026/ShellSage) — AI shell history analyzer: alias suggestions + command explainer
+- [GitDigest](https://github.com/MrHassan2027/GitDigest) â€” Generates a grouped CHANGELOG from git log
+- [PriceWatcher](https://github.com/MrHassan2027/PriceWatcher) â€” Async price tracker with Discord/email alerts
+- [SQLProfiler](https://github.com/MrHassan2027/SQLProfiler) â€” SQLAlchemy query profiler, detects slow queries and N+1
+- [DocForge](https://github.com/MrHassan2027/DocForge) â€” Static AST-based Python doc generator, zero deps
+- [FaceAttend](https://github.com/MrHassan2027/FaceAttend) â€” Webcam face recognition attendance logger
+- [ShellSage](https://github.com/MrHassan2027/ShellSage) â€” AI shell history analyzer: alias suggestions + command explainer
 
 ### JavaScript / TypeScript / Node.js
-- [LogLens](https://github.com/etetoo2026/LogLens) — Browser DevTools-style JSON log viewer
-- [SnapDeploy](https://github.com/etetoo2026/SnapDeploy) — One-command deploy: zip → SFTP → remote SSH commands
-- [FormForge](https://github.com/etetoo2026/FormForge) — Drag-and-drop form builder, exports HTML + vanilla JS
-- [Webhookr](https://github.com/etetoo2026/Webhookr) — Self-hosted webhook inspector with real-time UI and replay
-- [MDBoard](https://github.com/etetoo2026/MDBoard) — Kanban board backed by Markdown files on disk
-- [APIBlueprint](https://github.com/etetoo2026/APIBlueprint) — VS Code extension: OpenAPI YAML → TypeScript fetch client
+- [LogLens](https://github.com/MrHassan2027/LogLens) â€” Browser DevTools-style JSON log viewer
+- [SnapDeploy](https://github.com/MrHassan2027/SnapDeploy) â€” One-command deploy: zip â†’ SFTP â†’ remote SSH commands
+- [FormForge](https://github.com/MrHassan2027/FormForge) â€” Drag-and-drop form builder, exports HTML + vanilla JS
+- [Webhookr](https://github.com/MrHassan2027/Webhookr) â€” Self-hosted webhook inspector with real-time UI and replay
+- [MDBoard](https://github.com/MrHassan2027/MDBoard) â€” Kanban board backed by Markdown files on disk
+- [APIBlueprint](https://github.com/MrHassan2027/APIBlueprint) â€” VS Code extension: OpenAPI YAML â†’ TypeScript fetch client
 
 ### React / Next.js / Frontend
-- [ResumeJSON](https://github.com/etetoo2026/ResumeJSON) — JSON-driven resume renderer, exports print-ready PDF page
-- [CodeDuel](https://github.com/etetoo2026/CodeDuel) — Dual Monaco editor with diff mode and challenge timer
-- [ColorSystem](https://github.com/etetoo2026/ColorSystem) — OKLCH palette generator + design token exporter
-- [MarkdownPress](https://github.com/etetoo2026/MarkdownPress) — Minimal Next.js static blog from Markdown files
+- [ResumeJSON](https://github.com/MrHassan2027/ResumeJSON) â€” JSON-driven resume renderer, exports print-ready PDF page
+- [CodeDuel](https://github.com/MrHassan2027/CodeDuel) â€” Dual Monaco editor with diff mode and challenge timer
+- [ColorSystem](https://github.com/MrHassan2027/ColorSystem) â€” OKLCH palette generator + design token exporter
+- [MarkdownPress](https://github.com/MrHassan2027/MarkdownPress) â€” Minimal Next.js static blog from Markdown files
 
 ### C / C++
-- [TinyHTTP](https://github.com/etetoo2026/TinyHTTP) — HTTP/1.1 server in pure C, no deps
-- [MemWatch](https://github.com/etetoo2026/MemWatch) — LD_PRELOAD heap tracker with flamegraph output
-- [CLIParser](https://github.com/etetoo2026/CLIParser) — Single-header C++ argument parser library
+- [TinyHTTP](https://github.com/MrHassan2027/TinyHTTP) â€” HTTP/1.1 server in pure C, no deps
+- [MemWatch](https://github.com/MrHassan2027/MemWatch) â€” LD_PRELOAD heap tracker with flamegraph output
+- [CLIParser](https://github.com/MrHassan2027/CLIParser) â€” Single-header C++ argument parser library
 
 ### Game Dev
-- [DungeonTerm](https://github.com/etetoo2026/DungeonTerm) — Terminal roguelike with procedural dungeons and fog of war
-- [GameServerKit](https://github.com/etetoo2026/GameServerKit) — C# TCP game server foundation
+- [DungeonTerm](https://github.com/MrHassan2027/DungeonTerm) â€” Terminal roguelike with procedural dungeons and fog of war
+- [GameServerKit](https://github.com/MrHassan2027/GameServerKit) â€” C# TCP game server foundation
 
 ### Security / Networking
-- [PortMapper](https://github.com/etetoo2026/PortMapper) — Async port scanner with service fingerprinting
-- [JWTForge](https://github.com/etetoo2026/JWTForge) — JWT decoder, auditor, and forge tool for authorized testing
+- [PortMapper](https://github.com/MrHassan2027/PortMapper) â€” Async port scanner with service fingerprinting
+- [JWTForge](https://github.com/MrHassan2027/JWTForge) â€” JWT decoder, auditor, and forge tool for authorized testing
 
 ### AI / Data
-- [TweetMood](https://github.com/etetoo2026/TweetMood) — Tweet sentiment pipeline with DistilBERT + Streamlit dashboard
-- [CSVInsight](https://github.com/etetoo2026/CSVInsight) — Auto-generate stats, correlations, and anomaly reports from CSV
+- [TweetMood](https://github.com/MrHassan2027/TweetMood) â€” Tweet sentiment pipeline with DistilBERT + Streamlit dashboard
+- [CSVInsight](https://github.com/MrHassan2027/CSVInsight) â€” Auto-generate stats, correlations, and anomaly reports from CSV
 
 </details>
 
@@ -139,6 +139,7 @@ I build things across the full stack — from raw TCP game server infrastructure
 
 <div align="center">
 
-*Building in public — every repo above is a working project, not a clone.*
+*Building in public â€” every repo above is a working project, not a clone.*
 
 </div>
+
