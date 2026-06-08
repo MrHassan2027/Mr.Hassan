@@ -57,7 +57,6 @@ I build things across the full stack — from raw TCP game server infrastructure
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MrHassan2027&theme=github-dark-blue&hide_border=true&date_format=Y-m-d)](https://github.com/MrHassan2027)
 
-[![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrHassan2027&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/MrHassan2027)
 
 </div>
 
