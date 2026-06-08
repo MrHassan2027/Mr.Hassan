@@ -55,11 +55,29 @@ I build things across the full stack — from raw TCP game server infrastructure
 
 <div align="center">
 
-![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=etetoo2026&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=etetoo2026&theme=github-dark-blue&hide_border=true&date_format=Y-m-d)](https://github.com/etetoo2026)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etetoo2026&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=etetoo2026&theme=darkhub&no-frame=true&margin-w=6&column=6)](https://github.com/etetoo2026)
 
 </div>
+
+**Languages I use:**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Tools & Frameworks:**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
